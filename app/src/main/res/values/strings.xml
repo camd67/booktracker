@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">BookTracker</string>
+    <string name="hintTitle">Title</string>
+    <string name="hintAuthor">Author</string>
+    <string name="lblFinishedReading">Finished Reading?</string>
+    <string name="lblAddBook">Add Book</string>
 </resources>
