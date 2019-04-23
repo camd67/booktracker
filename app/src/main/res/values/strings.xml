@@ -4,4 +4,5 @@
     <string name="hintAuthor">Author</string>
     <string name="lblFinishedReading">Finished Reading?</string>
     <string name="lblAddBook">Add Book</string>
+    <string name="lblBookDisplay">%1$s By: %2$s (%3$s)</string>
 </resources>
